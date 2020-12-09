@@ -1,4 +1,4 @@
-elasticsearch==7.6.0
+elasticsearch==7.10.1
 elasticsearch-dsl==7.1.0
 jenkspy==0.1.5
 numpy==1.18.3
